@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("hello.txt");
         System.out.println("hello.txt");
         System.out.println("gmy");
+        System.out.println("hot-fix test");
     }
 }
 
